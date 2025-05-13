@@ -27,15 +27,6 @@ Traditional payment systems require manual tracking and execution of regular tra
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Solidity** (v0.8.x)
-- **Hardhat** (for development and testing)
-- **OpenZeppelin** for `Ownable`
-- **Ethers.js** (for script automation, frontend if needed)
-
----
-
 ## 🚀 Features
 
 | Feature                    | Description |
